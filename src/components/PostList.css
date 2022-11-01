@@ -1,0 +1,11 @@
+.post-item{
+    display: grid;
+    grid-template-columns: 5% 70%;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
+.post-item  p{
+    margin: 0;
+    
+}
